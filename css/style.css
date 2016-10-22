@@ -389,3 +389,53 @@ p {
 	font-weight: normal;
 	color: #333;
 }
+#actor1{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	width: 650px;
+	height:150px;
+	background: #fff;
+	color: #FFF;
+	font-size: 30PX;
+	display: block;
+	vertical-align: top;
+	text-align: center;
+
+}
+.espacio1{
+	width: 650px;
+	height: 10px;
+	background: #fff;
+}
+#actor2{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	width: 650px;
+	height:150px;
+	background: #fff;
+	color: #FFF;
+	font-size: 30PX;
+	display: block;
+	vertical-align: top;
+	text-align: center;
+}
+.espacio2{
+	width: 650px;
+	height: 10px;
+	background: #fff;
+}
+#actor3{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	width: 650px;
+	height:100px;
+	background: #fff;
+	color: #FFF;
+	font-size: 30PX;
+	display: block;
+	vertical-align: top;
+	text-align: center;
+}
