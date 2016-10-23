@@ -224,13 +224,13 @@ form {
 	top:975px;
 }
 #apDiv24 {
-	position:absolute;
-	width:1000px;
-	height:21px;
-	z-index:1;
-	top:142px;
-	color:#006680;
-	border-top-color:#006680;
+	position: absolute;
+	width: 1000px;
+	height: 21px;
+	z-index: 1;
+	top: 145px;
+	color: #006680;
+	border-top-color: #006680;
 }
 #apDiv25 {
 	position:absolute;
@@ -543,4 +543,3 @@ p {
 
 
 	
-
