@@ -326,7 +326,7 @@ li {
 	margin:4px;
 	box-shadow:inset 0px 0px 10px white;
 	margin-top:7px;
-	width:65px;
+	width:70px;
 	display:table;
 	overflow:hidden;
 	border-radius:3px;
@@ -380,6 +380,7 @@ p {
 .menu:visited {
 	color:#FFF;
 	text-decoration:none;
+	width: 100px;
 }
 .menu:hover {
 	color:#FF6600;
